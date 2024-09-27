@@ -7,7 +7,7 @@ classification_df = pd.read_csv('/home/hppp123/IC/tamanho/classificationtable_OG
 classification_df.columns = ['Group', 'Orthogroup', 'ID']
 
 
-##print(classification_df.head())
+#print(classification_df.head())
 #print(f"Número de colunas : {classification_df.shape[1]}")
 
 
